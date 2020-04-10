@@ -1,5 +1,7 @@
 #! /usr/bin/python3
 
+# make sure to edit the hashbang according to your system
+
 import base64
 import sys
 import hashlib
